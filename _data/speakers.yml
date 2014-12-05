@@ -1,0 +1,102 @@
+- 
+  id: 1
+  name: "Артём"
+  surname: "Макрушев"
+  company: "DataArt"
+  title: "Senior Webmaster"
+  bio: " ."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 2
+  name: "Андрей"
+  surname: "Яновский"
+  company: "DataArt"
+  title: "Designer"
+  bio: " ."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 3
+  name: "Александр"
+  surname: "Суевалов"
+  company: "DataArt"
+  title: "Frontend Developer"
+  bio: "Frontend Developer, путешествую по просторам веб-разработки более 5 лет, в DataArt c 2013 года.Любитель автоматизации и оптимизации, модульного подхода во всем. Активно слежу за трендами и уверен в светлом будущем JavaScript."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 4
+  name: "Тимур"
+  surname: "Гаскаров"
+  company: "Яндекс"
+  title: " "
+  bio: " ."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+TimurGaskarov/"}
+- 
+  id: 5
+  name: "Алексей"
+  surname: "Рыбаков"
+  company: "DataArt"
+  title: "Senior Mobile Developer"
+  bio: " ."
+  thumbnailUrl: rybakov.png
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/103157077004627749875/"}
+- 
+  id: 6
+  name: "Максим"
+  surname: "Юдин"
+  company: "HeadHunter"
+  title: "Android Software Engineer"
+  bio: " ."
+  thumbnailUrl: Yudin.jpeg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MaximYudin"}
+- 
+  id: 7
+  name: "Вадим"
+  surname: "Котов"
+  company: "SurfStudio"
+  title: "Technical Director"
+  bio: " ."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/109962882128669637739/"}
+- 
+  id: 8
+  name: "Влад"
+  surname: "Зотов"
+  company: "SurfStudio"
+  title: "Android Developer"
+  bio: " ."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/103157077004627749875/"}
+- 
+  id: 9
+  name: "Валерий"
+  surname: "Харитонов"
+  company: "SurfStudio"
+  title: "Android Developer"
+  bio: " ."
+  thumbnailUrl:
+  rockstar: false
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/103157077004627749875/"}
+
+
+

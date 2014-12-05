@@ -1,0 +1,9 @@
+- 
+  group: "Организатор"
+  elements: 
+    - {name: "GDG Vornezh", description: "GDG Voronezh - некоммерческое сообщество разработчиков, экспериментирующих с технологиями Google", link: "http://www.gdgvrn.org", imageUrl: "GDG_Voronezh.svg"}
+- 
+  group: "При поддержке"
+  elements: 
+    - {name: "DataArt", description: "DataArt (ДатаАрт) — компания, занимающаяся аутсорсингом программного обеспечения, специализирующаяся в области internet-приложений, технологий Internet of Things, корпоративных баз данных и инструментов промышленной автоматизации, включая системы клиент- и контент-менеджмента", link: "http://www.dataart.ru", imageUrl: "dataart.svg"}
+    - {name: "Google", description: "Google", link: "http://developers.google.com", imageUrl: "google.svg"}

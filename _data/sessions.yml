@@ -1,0 +1,118 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+-
+  id: 503
+  title: "Обед"
+  place: "Dining room"
+  service: true
+-
+  id: 504
+  title: "Регистрация"
+  place: "Актовый зал"
+  service: true
+-
+  id: 505
+  title: "Открытие конференции.Keynote"
+  place: "Актовый зал"
+  service: true
+-
+  id: 001
+  title: "Использование Material Design в разработке веб-сайтов"
+  description: "."
+  subtype: workshop
+  speakers: [1]
+
+-
+  id: 002
+  title: "Дизайн мобильного приложения по Material Design"
+  description: "."
+  subtype: workshop
+  speakers: [2]
+
+-
+  id: 003
+  title: "Polymer. Componentize the Web."
+  description: "."
+  subtype: workshop
+  speakers: [3]
+
+-
+  id: 004
+  title: "Кусто. Будущее [отсутствие] интерфейса браузера."
+  description: "."
+  subtype: workshop
+  speakers: [4]
+
+-
+  id: 005
+  title: "Android Wear. История вопроса и ситуация на рынке."
+  description: "."
+  subtype: workshop
+  speakers: [5]
+
+-
+  id: 006
+  title: "Android Wear: основы разработки под носимые устройства"
+  description: "."
+  subtype: workshop
+  speakers: [6]
+
+-
+  id: 007
+  title: "Ограничения и особенности платформы Wear, в сравнении с обычным Android и другими мобильными платформами"
+  description: "."
+  subtype: workshop
+  speakers: [7,8]
+
+-
+  id: 008
+  title: "Разработка музыкального приложения под Android Wear"
+  description: "."
+  subtype: workshop
+  speakers: [9]
+
+-
+  id: 011
+  title: "Understand"
+  description: "."
+  subtype: workshop
+
+
+-
+  id: 012
+  title: "Diverge"
+  description: "."
+  subtype: workshop
+
+
+-
+  id: 013
+  title: "Decide"
+  description: "."
+  subtype: workshop
+
+
+-
+  id: 014
+  title: "Prototype"
+  description: "."
+  subtype: workshop
+
+
+-
+  id: 015
+  title: "Validate"
+  description: "."
+  subtype: workshop
+
+
+-
+  id: 016
+  title: "Working Prototype"
+  description: "."
+  subtype: workshop
+
+
