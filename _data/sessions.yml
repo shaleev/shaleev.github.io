@@ -14,6 +14,11 @@
   place: "Актовый зал"
   service: true
 -
+  id: 506
+  title: "Закрытие"
+  place: "Актовый зал"
+  service: true
+-
   id: 505
   title: "Открытие конференции.Keynote"
   place: "Актовый зал"
@@ -62,10 +67,10 @@
 
 -
   id: 007
-  title: "Ограничения и особенности платформы Wear, в сравнении с обычным Android и другими мобильными платформами"
+  title: "Гайдлайны Android Wear: как создать хорошее приложение"
   description: "."
   subtype: workshop
-  speakers: [7,8]
+  speakers: [7]
 
 -
   id: 008
@@ -73,6 +78,12 @@
   description: "."
   subtype: workshop
   speakers: [9]
+-
+  id: 009
+  title: "Обзор новых классов в платформе Android Wear"
+  description: "."
+  subtype: workshop
+  speakers: [8]
 
 -
   id: 011
